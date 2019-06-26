@@ -1,0 +1,9 @@
+br/ufscar/cloudbroker/entity/VirtualMachineEntity.class
+br/ufscar/cloudbroker/endpoint/CloudBrokerEndpoint.class
+br/ufscar/cloudbroker/service/SearchService.class
+br/ufscar/cloudbroker/util/SortByCost.class
+br/ufscar/cloudbroker/CloudBrokerApplication.class
+br/ufscar/cloudbroker/mapper/VirtualMachineResourceMapper.class
+br/ufscar/cloudbroker/resource/VirtualMachineResource.class
+br/ufscar/cloudbroker/mapper/VirtualMachineResourceMapperImpl.class
+br/ufscar/cloudbroker/repository/VirtualMachineRepository.class

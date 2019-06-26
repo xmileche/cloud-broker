@@ -1,0 +1,8 @@
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/util/SortByCost.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/endpoint/CloudBrokerEndpoint.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/repository/VirtualMachineRepository.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/resource/VirtualMachineResource.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/CloudBrokerApplication.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/service/SearchService.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/entity/VirtualMachineEntity.java
+/home/michele/Downloads/cloud-broker/src/main/java/br/ufscar/cloudbroker/mapper/VirtualMachineResourceMapper.java

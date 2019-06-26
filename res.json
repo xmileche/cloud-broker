@@ -1,0 +1,58 @@
+[
+  {
+    "vcpu": 2,
+    "ram": 4,
+    "disk": 10,
+    "price": 10.9,
+    "provider": "http://localhost:8000/resourceA/1"
+  },
+  {
+    "vcpu": 4,
+    "ram": 8,
+    "disk": 20,
+    "price": 20.9,
+    "provider": "http://localhost:8000/resourceA/2"
+  },
+  {
+    "vcpu": 6,
+    "ram": 16,
+    "disk": 30,
+    "price": 9.9,
+    "provider": "http://localhost:8000/resourceB/1"
+  },
+  {
+    "vcpu": 8,
+    "ram": 4,
+    "disk": 10,
+    "price": 19.9,
+    "provider": "http://localhost:8000/resourceB/1"
+  },
+  {
+    "vcpu": 2,
+    "ram": 8,
+    "disk": 20,
+    "price": 20.9,
+    "provider": "http://localhost:8000/resourceC/1"
+  },
+  {
+    "vcpu": 4,
+    "ram": 16,
+    "disk": 30,
+    "price": 8.9,
+    "provider": "http://localhost:8000/resourceC/1"
+  },
+  {
+    "vcpu": 6,
+    "ram": 4,
+    "disk": 10,
+    "price": 10.9,
+    "provider": "http://localhost:8000/resourceD/1"
+  },
+  {
+    "vcpu": 8,
+    "ram": 8,
+    "disk": 20,
+    "price": 6.9,
+    "provider": "http://localhost:8000/resourceD/2"
+  }
+]
